@@ -1,0 +1,4 @@
+name: cuatica
+channels:
+  - defaults
+prefix: /home/alonso/miniconda3/envs/cuatica
